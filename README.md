@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/placeholder.svg?height=200&width=200&query=professional%20software%20developer%20avatar%20minimalist%20style" alt="Chhim Sokrith" style="border-radius:50%;" />
+  <img src="[/placeholder.svg?height=200&width=200&query=professional%20software%20developer%20avatar%20minimalist%20style](https://avatars.githubusercontent.com/u/90494699?v=4)" alt="Chhim Sokrith" style="border-radius:50%;" />
   
   # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Hi there, I'm Chhim Sokrith
 
