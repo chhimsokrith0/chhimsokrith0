@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[/placeholder.svg?height=200&width=200&query=professional%20software%20developer%20avatar%20minimalist%20style](https://avatars.githubusercontent.com/u/90494699?v=4)" alt="Chhim Sokrith" style="border-radius:50%;" />
+  <img src="/placeholder.svg?height=200&width=200&query=professional%20software%20developer%20avatar%20minimalist%20style" alt="Chhim Sokrith" style="border-radius:50%;" />
   
   # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Hi there, I'm Chhim Sokrith
 
@@ -105,69 +105,6 @@ Software developer with 3 years of experience contributing to web2 and web3 proj
   </a>
 </p>
 
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/your-username">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="GitHub Streak" />
-  </a>
-  
-  <a href="https://github.com/your-username">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" alt="Top Languages" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=nord&column=7&no-frame=true" alt="Trophy" />
-</div>
-
-## 🔥 Featured Projects
-
-<div align="center">
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Project 1</h3>
-      <div align="center">
-        <a href="https://github.com/your-username/project1" target="_blank">
-          <img src="/placeholder.svg?height=200&width=350&query=web%20application%20dashboard" alt="Project 1" width="100%" />
-        </a>
-        <br>
-        <br>
-        <p>
-          <a href="https://github.com/your-username/project1" target="_blank">
-            <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github" />
-          </a>
-          <a href="https://your-project1.com" target="_blank">
-            <img src="https://img.shields.io/badge/Live-blue?style=for-the-badge&logo=vercel" />
-          </a>
-        </p>
-        <p><strong>React, Node.js, MongoDB</strong> - A full-stack web application with user authentication and real-time data updates.</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">Project 2</h3>
-      <div align="center">
-        <a href="https://github.com/your-username/project2" target="_blank">
-          <img src="/placeholder.svg?height=200&width=350&query=blockchain%20application" alt="Project 2" width="100%" />
-        </a>
-        <br>
-        <br>
-        <p>
-          <a href="https://github.com/your-username/project2" target="_blank">
-            <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github" />
-          </a>
-          <a href="https://your-project2.com" target="_blank">
-            <img src="https://img.shields.io/badge/Live-blue?style=for-the-badge&logo=vercel" />
-          </a>
-        </p>
-        <p><strong>TypeScript, Web3.js, Solidity</strong> - A decentralized application built on Ethereum blockchain.</p>
-      </div>
-    </td>
-  </tr>
-</table>
 </div>
 
 ## 📈 Experience
