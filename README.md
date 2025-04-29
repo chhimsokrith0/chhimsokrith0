@@ -78,6 +78,18 @@ Software developer with 5 years of experience contributing to web2 and web3 proj
   </tr>
 </table>
 
+### ☁️ DevOps
+
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="65" height="65"/><br>Docker</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="65" height="65"/><br>Kubernetes</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="65" height="65"/><br>GitHub Actions</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="65" height="65"/><br>Nginx</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="65" height="65"/><br>Jenkins</td>
+  </tr>
+</table>
+
 ### 🗄️ Database & Cloud
 
 <table>
