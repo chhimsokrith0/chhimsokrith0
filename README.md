@@ -46,7 +46,7 @@ Software developer with 5 years of experience contributing to web2 and web3 proj
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="65" height="65"/><br>React</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="65" height="65"/><br>Nuxt.js</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="65" height="65"/><br>Next.js</td>
-    <td align="center"><img src="[[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg](https://www.svgrepo.com/show/333609/tailwind-css.svg)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0BYRK7zXF5NfO2Vzhsit5hIcYz_zJfpPqJw&s)" width="65" height="65"/><br>Tailwind</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="65" height="65"/><br>Tailwind</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="65" height="65"/><br>Sass</td>
   </tr>
 </table>
@@ -56,7 +56,7 @@ Software developer with 5 years of experience contributing to web2 and web3 proj
 <table>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="65" height="65"/><br>Node.js</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="65" height="65"/><br>NestJS</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="65" height="65"/><br>NestJS</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="65" height="65"/><br>Express</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="65" height="65"/><br>Laravel</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yii/yii-original.svg" width="65" height="65"/><br>Yii2</td>
@@ -69,7 +69,7 @@ Software developer with 5 years of experience contributing to web2 and web3 proj
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="65" height="65"/><br>Android (Java)</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="65" height="65"/><br>Flutter</td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/dart-icon.svg" width="65" height="65"/><br>Dart</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="65" height="65"/><br>Dart</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="65" height="65"/><br>React Native</td>
   </tr>
 </table>
