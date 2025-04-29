@@ -98,7 +98,7 @@ Software developer with 5 years of experience contributing to web2 and web3 proj
 <table>
 <tr>
 <td width="50%">
-<h3>ICG</h3>
+<h3>Previous Compan</h3>
 <p><strong>Full Stack Developer</strong><br>Current</p>
 <p>Building web applications using modern technologies and frameworks.</p>
 </td>
