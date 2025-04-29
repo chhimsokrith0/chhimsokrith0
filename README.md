@@ -174,20 +174,11 @@ Software developer with 5 years of experience contributing to web2 and web3 proj
 
 </div>
 
-<!-- Animated Stats -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
+
 
 ## 📈 Experience
 
 <div align="center">
-  <!-- Animated Contribution Snake -->
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
   <table>
     <tr>
       <td width="50%">
