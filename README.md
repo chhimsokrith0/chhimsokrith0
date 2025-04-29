@@ -31,7 +31,7 @@ Software developer with 3 years of experience contributing to web2 and web3 proj
 
 <div align="center">
 
-### 💻 Programming Languages
+### 🧑‍💻 Programming Languages
 
 <table>
   <tr>
@@ -43,40 +43,35 @@ Software developer with 3 years of experience contributing to web2 and web3 proj
   </tr>
 </table>
 
-### 💻 Frontend Development
+### 🖥️ Frontend Development
 
 <table>
   <tr>
-    <td align="center"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65"/><br>React</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="65" height="65"/><br>React</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="65" height="65"/><br>Nuxt.js</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="65" height="65"/><br>Next.js</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="65" height="65"/><br>Tailwind</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="65" height="65"/><br>Sass</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="65" height="65"/><br>Bootstrap</td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/webpack-icon.svg" width="65" height="65"/><br>Webpack</td>
   </tr>
 </table>
 
-### 🛠️ Backend Development
+### ⚙️ Backend Development
 
 <table>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="65" height="65"/><br>Node.js</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="65" height="65"/><br>NestJS</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="65" height="65"/><br>Express</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="65" height="65"/><br>Laravel</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="65" height="65"/><br>Laravel</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yii/yii-original.svg" width="65" height="65"/><br>Yii2</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="65" height="65"/><br>Django</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="65" height="65"/><br>Flask</td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="65" height="65"/><br>GraphQL</td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65"/><br>REST API</td>
   </tr>
 </table>
 
-### 📂 Database & Cloud
+### 🗄️ Database & Cloud
 
 <table>
   <tr>
-    <td align="center"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65"/><br>MySQL</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="65" height="65"/><br>MySQL</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="65" height="65"/><br>PostgreSQL</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="65" height="65"/><br>MongoDB</td>
     <td align="center"><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65"/><br>AWS</td>
@@ -105,7 +100,7 @@ Software developer with 3 years of experience contributing to web2 and web3 proj
 </table>
 </div>
 
-## 📢 Let's Connect!
+## 📫 Let's Connect!
 
 <div align="center">
 <p>I'm open to exciting opportunities and collaborations.</p>
