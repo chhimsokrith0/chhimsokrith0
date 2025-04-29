@@ -8,44 +8,6 @@
   </p>
 </div>
 
-<style>
-@keyframes pulse-glow {
-  0% {
-    box-shadow: 0 0 0 0 rgba(0, 153, 255, 0.4);
-  }
-  70% {
-    box-shadow: 0 0 15px 10px rgba(0, 153, 255, 0);
-  }
-  100% {
-    box-shadow: 0 0 0 0 rgba(0, 153, 255, 0);
-  }
-}
-
-img[alt^="React"],
-img[alt^="Tailwind"],
-img[alt^="Node.js"],
-img[alt^="Flutter"],
-img[alt^="NestJS"],
-img[alt^="Dart"],
-img[alt^="TypeScript"],
-img[alt^="JavaScript"] {
-  animation: pulse-glow 3s infinite;
-  border-radius: 12px;
-  transition: transform 0.3s ease;
-}
-
-img[alt^="React"]:hover,
-img[alt^="Tailwind"]:hover,
-img[alt^="Node.js"]:hover,
-img[alt^="Flutter"]:hover,
-img[alt^="NestJS"]:hover,
-img[alt^="Dart"]:hover,
-img[alt^="TypeScript"]:hover,
-img[alt^="JavaScript"]:hover {
-  transform: scale(1.1);
-}
-</style>
-
 ## 🚀 About Me
 
 Software developer with 5 years of experience contributing to web2 and web3 projects.
@@ -65,7 +27,64 @@ Software developer with 5 years of experience contributing to web2 and web3 proj
 
 <div align="center">
 
-<!-- Tech stack tables remain unchanged -->
+### 🧑‍💻 Programming Languages
+
+<table>
+  <tr>
+    <td align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65"/><br>JavaScript</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65"/><br>TypeScript</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65"/><br>Python</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="65" height="65"/><br>PHP</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65"/><br>Java</td>
+  </tr>
+</table>
+
+### 🖥️ Frontend Development
+
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="65" height="65"/><br>React</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="65" height="65"/><br>Nuxt.js</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="65" height="65"/><br>Next.js</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="65" height="65"/><br>Tailwind</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="65" height="65"/><br>Sass</td>
+  </tr>
+</table>
+
+### ⚙️ Backend Development
+
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="65" height="65"/><br>Node.js</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="65" height="65"/><br>NestJS</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="65" height="65"/><br>Express</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="65" height="65"/><br>Laravel</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yii/yii-original.svg" width="65" height="65"/><br>Yii2</td>
+  </tr>
+</table>
+
+### 📱 Mobile Development
+
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="65" height="65"/><br>Android (Java)</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="65" height="65"/><br>Flutter</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="65" height="65"/><br>Dart</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="65" height="65"/><br>React Native</td>
+  </tr>
+</table>
+
+### 🗄️ Database & Cloud
+
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="65" height="65"/><br>MySQL</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="65" height="65"/><br>PostgreSQL</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="65" height="65"/><br>MongoDB</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65"/><br>AWS</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65"/><br>GitHub</td>
+  </tr>
+</table>
 
 </div>
 
