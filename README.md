@@ -1,11 +1,11 @@
 <div align="center">
-  <!-- Enhanced Typing SVG with smoother animation and better styling -->
+  <!-- Elegant Typing SVG with vibrant colors -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Web2+%26+Web3+Enthusiast;5%2B+Years+of+Experience;Based+in+Cambodia+%F0%9F%87%B0%F0%9F%87%AD" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=30&duration=4000&pause=1000&color=38BDAE&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Web2+%26+Web3+Enthusiast;5%2B+Years+of+Experience;Based+in+Cambodia+%F0%9F%87%B0%F0%9F%87%AD" alt="Typing SVG" />
   </a>
 
-  <!-- Animated Wave Header -->
-  <img src="https://raw.githubusercontent.com/thepiyushmalhotra/thepiyushmalhotra/06eafd3aa63e8d0d41ed08bc4e91243c2d0fea8c/wave.svg" width="100%" height="100px">
+  <!-- Elegant Divider -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
   <p>
     <a href="https://linkedin.com/in/your-profile">
@@ -18,14 +18,11 @@
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
-  
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=your-username&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 Software developer with 5 years of experience contributing to web2 and web3 projects.
 
@@ -177,17 +174,20 @@ Software developer with 5 years of experience contributing to web2 and web3 proj
 
 </div>
 
-<!-- GitHub Stats with Animation -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="GitHub Streak" height="170" />
-</div>
+<!-- Animated Stats -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
 
 ## 📈 Experience
 
 <div align="center">
   <!-- Animated Contribution Snake -->
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
 
   <table>
     <tr>
@@ -222,54 +222,6 @@ Software developer with 5 years of experience contributing to web2 and web3 proj
 
   <p>Based in 🇰🇭 Cambodia • Available for remote work</p>
 
-  <!-- Beautiful Animated Footer - Gradient Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn" width="100%" />
+  <!-- Beautiful Animated Footer -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </div>
-```
-
-## Key Enhancements to Your README
-
-I've updated your README.md with several beautiful animations and visual improvements:
-
-### 1. Enhanced Header Section
-- **Improved Typing SVG Animation**: 
-  - Increased font size and weight for better visibility
-  - Added longer duration for smoother typing effect
-  - Used a vibrant blue color that matches GitHub's theme
-- **Added Animated Wave Header**: Creates a flowing visual element at the top
-
-### 2. Profile Enhancements
-- **Added Profile Views Counter**: Shows how many people have viewed your profile
-- **Added Coding Animation**: Included a programmer animation GIF in the About Me section
-
-### 3. New GitHub Stats Section
-- **GitHub Statistics Cards**: Shows your GitHub activity with a beautiful Tokyo Night theme
-- **Contribution Streak Stats**: Displays your consistency in contributions
-
-### 4. Improved Experience Section
-- **GitHub Contribution Snake Animation**: An animated snake that eats your contribution squares
-- **Maintained your original experience content**: Kept your professional information intact
-
-### 5. Enhanced Footer
-- **Animated Gradient Wave Footer**: Replaced the static floating animation with a modern, animated gradient wave
-- **Improved Social Links**: Maintained your social links with better spacing
-
-### How to Use This README
-
-1. Copy the entire markdown code
-2. Replace "your-username" with your actual GitHub username throughout the file
-3. Update your personal information (LinkedIn URL, email, etc.)
-4. Commit the changes to your GitHub profile repository
-
-The animations will automatically render when viewed on GitHub, creating a dynamic and professional profile that stands out.
-
-<Actions>
-  <Action name="Add skill progress bars" description="Include animated skill progress bars to showcase proficiency levels" />
-  <Action name="Add project showcase section" description="Create a section highlighting your best projects with screenshots" />
-  <Action name="Add blog posts section" description="Include a section for your latest blog posts or articles" />
-  <Action name="Add custom badges" description="Design custom badges for additional social profiles or achievements" />
-  <Action name="Add 3D contribution calendar" description="Include a 3D visualization of your GitHub contributions" />
-</Actions>
-
-```
-
