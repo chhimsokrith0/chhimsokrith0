@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="/placeholder.svg?height=200&width=200&query=professional%20software%20developer%20avatar%20minimalist%20style" alt="Profile" style="border-radius:50%;" />
-
-  # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Hi there, I'm Chhim Sokrith
-
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0969DA&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Web2+%26+Web3+Enthusiast;3%2B+Years+of+Experience;Based+in+Cambodia+%F0%9F%87%B0%F0%9F%87%AD" alt="Typing SVG" /></a>
 
   <p>
@@ -14,7 +10,7 @@
 
 ## 🚀 About Me
 
-Software developer with 3 years of experience contributing to web2 and web3 projects. Currently working at ICG in a full stack development role, building robust and scalable applications. Passionate about clean code, innovative solutions, and continuous learning.
+Software developer with 5 years of experience contributing to web2 and web3 projects. Currently working at ICG in a full stack development role, building robust and scalable applications. Passionate about clean code, innovative solutions, and continuous learning.
 
 <details>
 <summary>🏀 More about me</summary>
