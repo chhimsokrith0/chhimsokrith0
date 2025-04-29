@@ -46,7 +46,7 @@ Software developer with 5 years of experience contributing to web2 and web3 proj
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="65" height="65"/><br>React</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="65" height="65"/><br>Nuxt.js</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="65" height="65"/><br>Next.js</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="65" height="65"/><br>Tailwind</td>
+    <td align="center"><img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg](https://www.svgrepo.com/show/333609/tailwind-css.svg)" width="65" height="65"/><br>Tailwind</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="65" height="65"/><br>Sass</td>
   </tr>
 </table>
