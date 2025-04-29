@@ -67,6 +67,17 @@ Software developer with 3 years of experience contributing to web2 and web3 proj
   </tr>
 </table>
 
+### 📱 Mobile Development
+
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="65" height="65"/><br>Android (Java)</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="65" height="65"/><br>Flutter</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/dart-icon.svg" width="65" height="65"/><br>Dart</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="65" height="65"/><br>React Native</td>
+  </tr>
+</table>
+
 ### 🗄️ Database & Cloud
 
 <table>
