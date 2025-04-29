@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-Software developer with 5 years of experience contributing to web2 and web3 projects. Currently working at ICG in a full stack development role, building robust and scalable applications. Passionate about clean code, innovative solutions, and continuous learning.
+Software developer with 5 years of experience contributing to web2 and web3 projects.
 
 <details>
 <summary>🏀 More about me</summary>
