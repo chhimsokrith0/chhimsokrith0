@@ -141,6 +141,6 @@ Software developer with 5 years of experience contributing to web2 and web3 proj
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rithymeth&theme=radical&hide_border=true" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=rithymeth&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=chhimsokrith0&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=chhimsokrith0&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
 </p>
