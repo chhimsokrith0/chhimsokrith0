@@ -139,8 +139,14 @@ Software developer with 5 years of experience contributing to web2 and web3 proj
 
 </div>
 
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=chhimsokrith0&theme=radical&hide_border=true" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=chhimsokrith0&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chhimsokrith0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chhimsokrith0&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=chhimsokrith0&theme=tokyonight&hide_border=true" />
+</div>
+
