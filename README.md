@@ -138,3 +138,9 @@ Software developer with 5 years of experience contributing to web2 and web3 proj
 <img src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 </div>
+
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rithymeth&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rithymeth&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+</p>
