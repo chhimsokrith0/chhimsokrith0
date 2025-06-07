@@ -23,7 +23,6 @@ I'm a software developer with 5+ years of experience, contributing to both Web2 
 - 🌱 Continuously learning advanced TypeScript patterns and blockchain development
 - 💬 Feel free to ask me about full-stack development, React, or basketball!
 - ⚡ Fun fact: I love spending my free time on the basketball court
-
 </details>
 
 ## 💻 Tech Stack
@@ -98,6 +97,17 @@ I'm a software developer with 5+ years of experience, contributing to both Web2 
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="65" height="65"/><br>MongoDB</td>
     <td align="center"><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65"/><br>AWS</td>
     <td align="center"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65"/><br>GitHub</td>
+  </tr>
+</table>
+
+### 🛠️ Architecture
+
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="65" height="65"/><br>Microservices</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Kafka_logo.svg" width="65" height="65"/><br>Kafka</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/gRPC_logo.svg" width="65" height="65"/><br>gRPC</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Redis_Logo.svg" width="65" height="65"/><br>Redis</td>
   </tr>
 </table>
 
