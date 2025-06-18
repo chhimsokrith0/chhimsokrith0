@@ -154,32 +154,5 @@ I'm a software developer with 5+ years of experience, contributing to both Web2 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chhimsokrith0&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Chhimsokrith's Top Languages" />
 </div>
 
-<div align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=chhimsokrith0&theme=tokyonight&hide_border=true" alt="Chhimsokrith's GitHub Streak Stats" />
-</div>
-```
 
-**Key Enhancements for "Beauty" and Functionality:**
-
-1.  **Animations Confirmed:**
-    *   The typing animation at the top and the snake animation in the "Let's Connect!" section are standard and should work well. Their visual appeal is a core part of the "beauty."
-2.  **Image Integrity ("Picture working all"):**
-    *   All `<img>` tags now have descriptive `alt` attributes. This is crucial for accessibility and if an image fails to load.
-    *   Ensured `valign="top"` for table cells in the Tech Stack section to keep icons and text nicely aligned if text wraps.
-3.  **Experience Section Restored & Enhanced:**
-    *   Reverted to the two-column table layout for the "Experience" section, as this might be what you preferred aesthetically.
-    *   Added `valign="top"` to these table cells as well.
-    *   Added a little `style="padding-right: 15px;"` and `style="padding-left: 15px;"` to the experience table cells to create a small gutter between them for better visual separation.
-    *   Used `<em>` for italicizing the description text for a slightly softer look.
-4.  **Visual Separators:**
-    *   Added `<hr/>` (horizontal rules) between major sections (`About Me`, `Tech Stack`, `Experience`, `Let's Connect`, `GitHub Stats`). This helps to visually break up the content and can contribute to a cleaner, more organized ("beautiful") look.
-5.  **Spacing and Alignment:**
-    *   Reviewed overall spacing. Added a `style="margin-top: 20px;"` to the div containing the streak stats for better separation from the stats above it.
-    *   Maintained your preferred centered alignment for most content.
-6.  **Self-closing tags:** Used self-closing tags for `<br/>` and `<hr/>` for XHTML consistency, though not strictly required by modern HTML in Markdown.
-
-Remember to replace placeholder links like `https://linkedin.com/in/your-profile`, `https://github.com/your-username`, and `mailto:your-email@example.com` with your actual information.
-
-I believe these changes make your README more visually structured and ensure all elements are presented effectively, contributing to the "beautiful" profile you're aiming for!
-```
 
