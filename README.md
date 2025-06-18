@@ -109,26 +109,7 @@ I'm a software developer with 5+ years of experience, contributing to both Web2 
 
 <hr/>
 
-## 📈 Experience
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" valign="top" style="padding-right: 15px;">
-        <h3>Current Position</h3>
-        <p><strong>Full Stack Developer</strong><br/>Present</p>
-        <p><em>Building cutting-edge web applications using modern technologies and frameworks.</em></p>
-      </td>
-      <td width="50%" valign="top" style="padding-left: 15px;">
-        <h3>Previous Experience</h3>
-        <p><strong>Web Developer</strong><br/>Past</p>
-        <p><em>Developed and maintained responsive and performant web applications for various clients.</em></p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<hr/>
 
 ## 📫 Let's Connect!
 
