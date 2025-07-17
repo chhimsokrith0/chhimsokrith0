@@ -1,139 +1,120 @@
 <div align="center">
-  <!-- Elegant Typing Animation -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=30&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Web2+%26+Web3+Enthusiast;5%2B+Years+of+Experience;Based+in+Cambodia+%F0%9F%87%B0%F0%9F%87%AD" alt="Full Stack Developer, Web2 & Web3 Enthusiast, 5+ Years of Experience, Based in Cambodia" />
-  </a>
 
-  <!-- Simple, Clean Social Links -->
-  <p>
-    <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-    <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  </p>
+<!-- Profile Greeting -->
+
+<h1>
+<a href="https://git.io/typing-svg">
+<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DInter%26weight%3D600%26size%3D32%26duration%3D3000%26pause%3D1000%26color%3D0366D6%26center%3Dtrue%26vCenter%3Dtrue%26width%3D460%26lines%3DHey%2Bthere%252C%2BI%27m%2BSokrith%2B%25F0%259F%2591%258B%3BFull-Stack%2BDeveloper%3BWeb2%2B%2526%2BWeb3%2BEnthusiast%3BBased%2Bin%2BCambodia%2B%25F0%259F%2587%25B0%25F0%259F%2587%25AD" alt="Typing SVG" />
+</a>
+</h1>
+
+<!-- Social Links -->
+
+<p>
+<a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://github.com/your-username"><img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-181717%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub"></a>
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
 </div>
 
-## 🚀 About Me
-
-I'm a software developer with 5+ years of experience, contributing to both Web2 and Web3 projects.
+🚀 About Me
+A seasoned software developer with over 5 years of hands-on experience, crafting solutions across both Web2 and Web3 landscapes. I thrive on building robust, scalable applications and am deeply passionate about the decentralized future.
 
 <details>
-<summary>🏀 More about me</summary>
+<summary>Click for more info</summary>
 <br/>
-- ✨ Passionate about expanding my Web3 development skills
-- 🌱 Continuously learning advanced TypeScript patterns and blockchain development
-- 💬 Feel free to ask me about full-stack development, React, or basketball!
-- ⚡ Fun fact: I love spending my free time on the basketball court
+
+🔭 I’m currently diving deeper into advanced TypeScript and blockchain technologies.
+
+🌱 I’m passionate about contributing to innovative Web3 projects.
+
+💬 Ask me about React, Node.js, Full-Stack Architecture, or Basketball!
+
+⚡ Fun fact: When I'm not coding, I'm probably on the basketball court.
 </details>
 
-<hr/>
-
-## 💻 Tech Stack
-
+💻 My Tech Stack
 <div align="center">
 
-### 🧑‍💻 Programming Languages
-<table>
-  <tr>
-    <td align="center" valign="top"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65"/><br/>JavaScript</td>
-    <td align="center" valign="top"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65"/><br/>TypeScript</td>
-    <td align="center" valign="top"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65"/><br/>Python</td>
-    <td align="center" valign="top"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="65" height="65"/><br/>PHP</td>
-    <td align="center" valign="top"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65"/><br/>Java</td>
-  </tr>
-</table>
+Programming Languages
 
-### 🖥️ Frontend Development
-<table>
-  <tr>
-    <td align="center" valign="top"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="65" height="65"/><br/>React</td>
-    <td align="center" valign="top"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" alt="Nuxt.js" width="65" height="65"/><br/>Nuxt.js</td>
-    <td align="center" valign="top"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="65" height="65"/><br/>Next.js</td>
-    <td align="center" valign="top"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="65" height="65"/><br/>Tailwind</td>
-    <td align="center" valign="top"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="65" height="65"/><br/>Sass</td>
-  </tr>
-</table>
+<p>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" alt="JavaScript"></a>
+<a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"></a>
+<a href="https://www.python.org/"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python"></a>
+<a href="https://www.php.net/"><img src="https://www.google.com/search?q=https://img.shields.io/badge/PHP-777BB4%3Fstyle%3Dfor-the-badge%26logo%3Dphp%26logoColor%3Dwhite" alt="PHP"></a>
+<a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"></a>
+</p>
 
-### ⚙️ Backend Development
-<table>
-  <tr>
-    <td align="center" valign="top"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="65" height="65"/><br/>Node.js</td>
-    <td align="center" valign="top"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" alt="NestJS" width="65" height="65"/><br/>NestJS</td>
-    <td align="center" valign="top"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="65" height="65"/><br/>Express</td>
-    <td align="center" valign="top"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="65" height="65"/><br/>Laravel</td>
-    <td align="center" valign="top"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yii/yii-original.svg" alt="Yii2" width="65" height="65"/><br/>Yii2</td>
-  </tr>
-</table>
+Frontend Development
 
-### 📱 Mobile Development
-<table>
-  <tr>
-    <td align="center" valign="top"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="65" height="65"/><br/>Android (Java)</td>
-    <td align="center" valign="top"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="65" height="65"/><br/>Flutter</td>
-    <td align="center" valign="top"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="65" height="65"/><br/>Dart</td>
-    <td align="center" valign="top"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" width="65" height="65"/><br/>React Native</td>
-  </tr>
-</table>
+<p>
+<a href="https://reactjs.org/"><img src="https://www.google.com/search?q=https://img.shields.io/badge/React-61DAFB%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3Dblack" alt="React"></a>
+<a href="https://nextjs.org/"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Next.js-000000%3Fstyle%3Dfor-the-badge%26logo%3Dnextdotjs%26logoColor%3Dwhite" alt="Next.js"></a>
+<a href="https://nuxtjs.org/"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Nuxt.js-00DC82%3Fstyle%3Dfor-the-badge%26logo%3Dnuxtdotjs%26logoColor%3Dblack" alt="Nuxt.js"></a>
+<a href="https://tailwindcss.com/"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Tailwind_CSS-38B2AC%3Fstyle%3Dfor-the-badge%26logo%3Dtailwind-css%26logoColor%3Dwhite" alt="Tailwind CSS"></a>
+<a href="https://sass-lang.com/"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Sass-CC6699%3Fstyle%3Dfor-the-badge%26logo%3Dsass%26logoColor%3Dwhite" alt="Sass"></a>
+</p>
 
-### ☁️ DevOps
-<table>
-  <tr>
-    <td align="center" valign="top"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="65" height="65"/><br/>Docker</td>
-    <td align="center" valign="top"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="65" height="65"/><br/>Kubernetes</td>
-    <td align="center" valign="top"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub Actions" width="65" height="65"/><br/>GitHub Actions</td>
-    <td align="center" valign="top"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" width="65" height="65"/><br/>Nginx</td>
-    <td align="center" valign="top"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="65" height="65"/><br/>Jenkins</td>
-  </tr>
-</table>
+Backend Development
 
-### 🗄️ Database & Cloud
-<table>
-  <tr>
-    <td align="center" valign="top"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="65" height="65"/><br/>MySQL</td>
-    <td align="center" valign="top"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="65" height="65"/><br/>PostgreSQL</td>
-    <td align="center" valign="top"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="65" height="65"/><br/>MongoDB</td>
-    <td align="center" valign="top"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65"/><br/>AWS</td>
-    <td align="center" valign="top"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65"/><br/>GitHub</td>
-  </tr>
-</table>
+<p>
+<a href="https://nodejs.org/"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Node.js-339933%3Fstyle%3Dfor-the-badge%26logo%3Dnodedotjs%26logoColor%3Dwhite" alt="Node.js"></a>
+<a href="https://nestjs.com/"><img src="https://www.google.com/search?q=https://img.shields.io/badge/NestJS-E0234E%3Fstyle%3Dfor-the-badge%26logo%3Dnestjs%26logoColor%3Dwhite" alt="NestJS"></a>
+<a href="https://expressjs.com/"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Express-000000%3Fstyle%3Dfor-the-badge%26logo%3Dexpress%26logoColor%3Dwhite" alt="Express"></a>
+<a href="https://laravel.com/"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Laravel-FF2D20%3Fstyle%3Dfor-the-badge%26logo%3Dlaravel%26logoColor%3Dwhite" alt="Laravel"></a>
+<a href="https://www.yiiframework.com/"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Yii2-86d400%3Fstyle%3Dfor-the-badge%26logo%3Dyii%26logoColor%3Dwhite" alt="Yii2"></a>
+</p>
 
-### 🛠️ Architecture
-<table>
-  <tr>
-    <td align="center" valign="top"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Microservices" width="65" height="65"/><br/>Microservices</td>
-    <td align="center" valign="top"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Kafka_logo.svg" alt="Kafka" width="65" height="65"/><br/>Kafka</td>
-    <td align="center" valign="top"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/gRPC_logo.svg" alt="gRPC" width="65" height="65"/><br/>gRPC</td>
-    <td align="center" valign="top"><img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Redis_Logo.svg" alt="Redis" width="65" height="65"/><br/>Redis</td>
-  </tr>
-</table>
+Mobile Development
+
+<p>
+<a href="https://developer.android.com/"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Android-3DDC84%3Fstyle%3Dfor-the-badge%26logo%3Dandroid%26logoColor%3Dwhite" alt="Android"></a>
+<a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"></a>
+<a href="https://dart.dev/"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Dart-0175C2%3Fstyle%3Dfor-the-badge%26logo%3Ddart%26logoColor%3Dwhite" alt="Dart"></a>
+<a href="https://reactnative.dev/"><img src="https://www.google.com/search?q=https://img.shields.io/badge/React_Native-61DAFB%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3Dblack" alt="React Native"></a>
+</p>
+
+Database & Cloud
+
+<p>
+<a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a>
+<a href="https://www.postgresql.org/"><img src="https://www.google.com/search?q=https://img.shields.io/badge/PostgreSQL-4169E1%3Fstyle%3Dfor-the-badge%26logo%3Dpostgresql%26logoColor%3Dwhite" alt="PostgreSQL"></a>
+<a href="https://www.mongodb.com/"><img src="https://www.google.com/search?q=https://img.shields.io/badge/MongoDB-47A248%3Fstyle%3Dfor-the-badge%26logo%3Dmongodb%26logoColor%3Dwhite" alt="MongoDB"></a>
+<a href="https://aws.amazon.com/"><img src="https://www.google.com/search?q=https://img.shields.io/badge/AWS-232F3E%3Fstyle%3Dfor-the-badge%26logo%3Damazon-aws%26logoColor%3Dwhite" alt="AWS"></a>
+<a href="https://github.com/"><img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-181717%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub"></a>
+</p>
+
+DevOps & Architecture
+
+<p>
+<a href="https://www.docker.com/"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite" alt="Docker"></a>
+<a href="https://kubernetes.io/"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Kubernetes-326CE5%3Fstyle%3Dfor-the-badge%26logo%3Dkubernetes%26logoColor%3Dwhite" alt="Kubernetes"></a>
+<a href="https://github.com/features/actions"><img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub_Actions-2088FF%3Fstyle%3Dfor-the-badge%26logo%3Dgithub-actions%26logoColor%3Dwhite" alt="GitHub Actions"></a>
+<a href="https://kafka.apache.org/"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Kafka-231F20%3Fstyle%3Dfor-the-badge%26logo%3Dapache-kafka%26logoColor%3Dwhite" alt="Kafka"></a>
+<a href="https://redis.io/"><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"></a>
+</p>
+
 </div>
 
-<hr/>
-
-
-
-## 📫 Let's Connect!
+📊 GitHub Stats
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=chhimsokrith0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chhimsokrith0&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</div>
 
 <div align="center">
-  <p>I'm open to exciting opportunities and collaborations. Let's connect!</p>
-  <p>
-    <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-    <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  </p>
-  <p>Based in 🇰🇭 Cambodia • Available for remote work</p>
-
-  <!-- GitHub Contribution Grid Snake Animation -->
-  <img src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation" />
+<img src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation" />
 </div>
 
-<hr/>
-
-## 📊 GitHub Stats
-
+📫 Let's Connect!
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chhimsokrith0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Chhimsokrith's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chhimsokrith0&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Chhimsokrith's Top Languages" />
+<p>Open to new opportunities and collaborations. Feel free to reach out!</p>
+<p>
+<a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://github.com/your-username"><img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-181717%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub"></a>
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+<p>📍 Based in 🇰🇭 Cambodia • Available for remote work</p>
 </div>
-
-
-
